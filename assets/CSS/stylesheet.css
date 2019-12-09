@@ -1,0 +1,111 @@
+body{
+    background-color: rgb(35,31,32);
+    
+
+}
+
+section{
+    padding-bottom: 2%;
+}
+.navbar{
+    background-color: rgb(35,31,32); 
+}
+
+.navbar-toggler{
+    background-color:RGB(22,106,169);
+    z-index: 0;
+}
+
+.navbar-toggler-icon{
+    z-index: 1;
+}
+
+
+.navbar-brand {
+    padding: 0px;
+    height: 8em;
+    background-color: rgb(35,31,32);
+  }
+  .navbar-brand>img {
+    height: 100%;
+    padding: 0px;
+    width: auto;
+  }
+  
+
+
+.homepage-header{
+    text-align: center;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    background-color: RGB(44,74,131);
+    color: white;
+    
+}
+
+.dave-header{
+border-radius: 100px;
+ -webkit-border-radius: 100px;
+ -moz-border-radius: 100px;
+}
+
+.card{
+    margin-left: 10%;
+    margin-right: 10%;
+    background: none;
+}
+
+.card-body{
+    color: RGB(244,141,31);
+}
+
+.card-text{
+    font-style: italic;
+}
+
+.service-card{
+    text-align: center;
+    color: white;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+    padding-top: 5%;
+}
+
+
+.service-icons{
+    margin-top: 5%;
+    margin-bottom: 5%;
+    font-size: 5rem;
+    
+}
+
+.services-container{
+    text-align: center;
+    color: white;
+}
+
+.services-top{
+    padding-bottom: 10%;
+}
+
+.services-bottom{
+    background-color: white;
+    padding-top: 5%;
+}
+
+.service-questions{
+    text-align: center;
+    padding-top: 5%;
+}
+
+.contact-card{
+    padding-top:10%;
+    text-align: center;
+    color:white;
+}
+
+
+.contact-icon{
+    padding-bottom: 50px;
+    font-size: 3rem;
+}
